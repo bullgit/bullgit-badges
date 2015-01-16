@@ -1,5 +1,5 @@
 # bullgit-badges
-You're a Gitch ? And you want to let the world know about it ? 
+You're a Gitch ? And you want to let the world know about it ? Well, with only 1.124 kb of awesomeness, you'll be able to do so! 
 
 ### How to ? 
 You have to download [the script](https://raw.githubusercontent.com/bullgit/bullgit-badges/master/bullgit-badges.min.js) and add a `<script src="path/to/bullgit-badges.min.js"></script>`. 
