@@ -14,3 +14,6 @@ Like this  :
 
 ### What's inside ? 
 Well, not much per say. It's vanilla javascript, that append a style tag within css rules to your document, and the only request made by the script, is to grab the bullgit logo. 
+
+### A demo ? 
+Okay, here you go fellah : [Demo on codepen.io](http://s.codepen.io/LukyVj/full/9901afcd802ff0b22614be3c33ea995c?)
