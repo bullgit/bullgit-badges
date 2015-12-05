@@ -46,6 +46,7 @@ html:after {
   bottom: 0;
   left: 0;
   cursor: pointer;
+  text-indent: -9999999px;
   z-index: 999999999;
   background: red;
   -webkit-transform: rotate(-45deg);
