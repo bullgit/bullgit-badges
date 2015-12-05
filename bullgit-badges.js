@@ -40,7 +40,6 @@ html:after {
 #bullbadge {
   display: block;
   opacity: 0;
-  text-indent: -9999999px;
   width: 200px;
   height: 200px;
   position: absolute;
